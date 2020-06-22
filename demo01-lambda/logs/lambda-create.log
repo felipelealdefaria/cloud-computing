@@ -1,0 +1,20 @@
+{
+    "FunctionName": "hi-cli",
+    "FunctionArn": "arn:aws:lambda:us-east-1:095121603975:function:hi-cli",
+    "Runtime": "nodejs12.x",
+    "Role": "arn:aws:iam::095121603975:role/lambda-examples",
+    "Handler": "index.handler",
+    "CodeSize": 325,
+    "Description": "",
+    "Timeout": 3,
+    "MemorySize": 128,
+    "LastModified": "2020-06-19T23:31:38.292+0000",
+    "CodeSha256": "u0sbxL4qBA3/rGMgZ4nqIbOj4XcPKXaWsrIBnKx7OUc=",
+    "Version": "$LATEST",
+    "TracingConfig": {
+        "Mode": "PassThrough"
+    },
+    "RevisionId": "ee113a25-e61d-4ae6-b53c-24a12296ef23",
+    "State": "Active",
+    "LastUpdateStatus": "Successful"
+}
